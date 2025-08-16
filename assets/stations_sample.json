@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Marina Beach Station",
+    "operator": "TN-EV",
+    "lat": 13.05,
+    "lng": 80.2824,
+    "connectors": 6,
+    "price": 10.0,
+    "address": "Marina Beach, Chennai",
+    "port": "CCS2"
+  },
+  {
+    "name": "Tidel Park Station",
+    "operator": "PrivateCo",
+    "lat": 12.9899,
+    "lng": 80.246,
+    "connectors": 4,
+    "price": 12.5,
+    "address": "Tidel Park, Chennai",
+    "port": "Type 2"
+  }
+]
